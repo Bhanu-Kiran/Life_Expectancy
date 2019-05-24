@@ -1,0 +1,1 @@
+[{"id":"8eca00c8.f2ff5","type":"http request","z":"4ffc9483.0f2b2c","name":"","method":"GET","ret":"obj","paytoqs":false,"url":"https://eu-gb.ml.cloud.ibm.com/v3/identity/token","tls":"","proxy":"","authType":"basic","x":630,"y":220,"wires":[["8015c51f.cbb1e8","fabb3e5b.67c0f"]]}]
